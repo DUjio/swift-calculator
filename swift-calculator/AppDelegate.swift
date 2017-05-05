@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  swift-calculator
 //
-//  Created by huawei on 17/5/4.
-//  Copyright © 2017年 huawei. All rights reserved.
+//  Created by XX on 17/5/4.
+//  Copyright © 2017年 XX. All rights reserved.
 //
 
 import UIKit
